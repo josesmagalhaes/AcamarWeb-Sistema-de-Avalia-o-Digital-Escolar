@@ -7,7 +7,7 @@ O projeto foi descontinuado, uma vez que a escola optou por usar apenas a versã
 #Descrição do projeto
 O sistema conta com uma versão de Administrador que pode ser usado tanto pela gestão da escola quanto pelos professores, e uma versão para estudantes. Na tela inicial, essas opções podem ser acessadas com dois logins distintos neste painel. Além de ainda, possuir uma opção de cadastro de novo usuário. <br>
 
-![Capturar_2021_03_27_12_09_53_591](https://user-images.githubusercontent.com/31749933/112726649-58a4d680-8efd-11eb-8553-378547308621.png)
+![Capturar_2021_03_27_13_12_29_776](https://user-images.githubusercontent.com/31749933/112726833-234cb880-8efe-11eb-8554-29f14847f16a.png)
 
 No painel de administrador, é possível realizar a as opções de CRUD de usuários, avaliações e realizar testes preliminares para averiguar se as provas inseridas estão se comportando da forma como deveriam, para concerto de possíveis erros na edição, ou performance do sistema. <br>
 ![Capturar_2021_03_27_12_09_09_555](https://user-images.githubusercontent.com/31749933/112726655-5fcbe480-8efd-11eb-86b3-d731cc97975e.png)
